@@ -10,7 +10,7 @@
         {
             "environment": [],
             "name": "simple-app",
-            "image": "amazon/amazon-ecs-sample",
+            "image": "dieple/docker-ec2-php-app",
             "cpu": 10,
             "memory": 500,
             "portMappings": [
